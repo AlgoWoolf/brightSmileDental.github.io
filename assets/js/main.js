@@ -1,9 +1,3 @@
-/* ============================
-Template Name  : Dentax
-Description    : Dentist & Dental Clinic HTML5 Template
-Author         : Youtoview
-Version        : 1.1
-=============================== */
 
 
 jQuery(
